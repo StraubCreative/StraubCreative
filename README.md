@@ -1,4 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+[![StraubCreative's GitHub stats](https://github-readme-stats.vercel.app/api?username=StraubCreative)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **StraubCreative/StraubCreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
